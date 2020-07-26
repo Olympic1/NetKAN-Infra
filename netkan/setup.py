@@ -15,7 +15,7 @@ setup(
         'gitpython',
         'pynamodb',
         # 2019-11-01 capping to 2.8.0 - https://github.com/boto/botocore/commit/e87e7a745fd972815b235a9ee685232745aa94f9
-        'python-dateutil>=2.1,<2.8.1',
+        'python-dateutil>=2.1,<2.8.2',
         'requests',
         'flask',
         'internetarchive',
